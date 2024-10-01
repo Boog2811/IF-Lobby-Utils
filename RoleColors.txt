@@ -1,0 +1,65 @@
+Aurial: #B34D99FF
+Detective: #4D4DFFFF
+Haunter: #D3D3D3FF
+Investigator: #00B3B3FF
+Mystic: #4D99E6FF
+Oracle: #BF00BFFF
+Seer: #FFCC80FF
+Snitch: #D4AF37FF
+Spy: #CCA3CCFF
+Tracker: #009900FF
+Trapper: #A7D1B3FF
+Hunter: #29AB87FF
+Sheriff: #FFFF00FF
+Vampire Hunter: #B3B3E6FF
+Veteran: #998040FF
+Vigilante: #FFFF99FF
+Altruist: #660000FF
+Medic: #006600FF
+Engineer: #FFA60AFF
+Imitator: #B3D94DFF
+Mayor: #704FA8FF
+Medium: #A680FFFF
+Prosecutor: #B38000FF
+Swapper: #66E666FF
+Transporter: #00EEFFFF
+Amnesiac: #80B2FFFF
+Guardian Angel: #B3FFFFFF
+Survivor: #FFE64DFF
+Doomsayer: #00FF80FF
+Executioner: #8C4005FF
+Jester: #FFBFCCFF
+Phantom: #662962FF
+Arsonist: #FF4D00FF
+Plaguebearer: #E6FFB3FF
+The Glitch: #00FF00FF
+Vampire: #262626FF
+Werewolf: #A86629FF
+Escapist: #FF0000FF
+Grenadier: #FF0000FF
+Morphling: #FF0000FF
+Swooper: #FF0000FF
+Venerer: #FF0000FF
+Bomber: #FF0000FF
+Traitor: #FF0000FF
+Warlock: #FF0000FF
+Blackmailer: #FF0000FF
+Janitor: #FF0000FF
+Miner: #FF0000FF
+Undertaker: #FF0000FF
+Aftermath: #A6FFA6FF
+Bait: #00B3B3FF
+Diseased: #808080FF
+Frosty: #99FFFFFF
+Multitasker: #FF804DFF
+Torch: #FFFF99FF
+Button Barry: #E600FFFF
+Flash: #FF8080FF
+Giant: #FFB34DFF
+Lovers: #FF66CCFF
+Radar: #FF0080FF
+Sleuth: #803333FF
+Tiebreaker: #99E699FF
+Disperser: #FF0000FF
+Double Shot: #FF0000FF
+Underdog: #FF0000FF
